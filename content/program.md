@@ -16,7 +16,7 @@ title: Full Program
 
 **11:50 a.m.** Round Table: *Recommendations for publishing your bibliometric analysis in top indexed-journals*  
 * Dr. Eva Gallardo-Gallardo (*moderator*)
-* Dr. Matej Černe (*University of Ljubljana*), Editor-in-Chief at *Dynamic Relationships Management Journal*; Associate Editor at *Economic and Business Review*, and Editorial Board Member at *The Leadership Quarterly* and *Human Resource Management Review*
+* Dr. Matej Černe (*University of Ljubljana*), Editor-in-Chief at *Dynamic Relationships Management Journal*; Associate Editor at *Economic and Business Review*.
 * Dr. Jordi Trullen (*ESADE-Ramon Llull University*), Editorial Board Member at *Business Research Quarterly*
 * Dr. Joaquin Alegre (*Universitat de València*), Associate Editor at the *International Journal of Management Reviews*
 
@@ -37,3 +37,5 @@ title: Full Program
 * Dr. Estaban Lafuente, *Universitat Politècnica de Catalunya*
 
 **5:30 p.m.** Closing, by Dr. Eva Gallardo-Gallardo
+
+
