@@ -16,10 +16,14 @@ menu:
       name: Program
       url: /program/
       weight: 2
+    - identifier: shortview
+      name: Participants
+      url: /participants/
+      weight: 3
     - identifier: registration
       name: Registration
       url: https://myenquesta.upc.edu/index.php/179812?lang=en
-      weight: 3
+      weight: 4
   topbar:
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
