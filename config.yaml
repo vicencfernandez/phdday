@@ -1,0 +1,101 @@
+baseurl: https://phdday.netlify.app
+title: PhD Day in Management
+theme: hugo-universal-theme
+languageCode: en-us
+defaultContentLanguage: en
+disqusShortname: devcows
+googleAnalytics: ''
+paginate: 10
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: program
+      name: Program
+      url: /program/
+      weight: 2
+    - identifier: registration
+      name: Registration
+      url: https://myenquesta.upc.edu/index.php/179812?lang=en
+      weight: 3
+  topbar:
+    - name: GitHub
+      pre: <i class='fab fa-2x fa-github'></i>
+      url: https://github.com/vicencfernandez/
+      weight: 1
+    - name: Twitter
+      pre: <i class='fab fa-2x fa-twitter'></i>
+      url: http://twitter.com/vicencfernandez
+      weight: 2
+    - name: Email
+      pre: <i class='fas fa-2x fa-envelope'></i>
+      url: mailto:vicenc.fernandez@upc.edu
+      weight: 3
+params:
+  about_us: <p>The Laboratory for the Development of Technical Talent  (TechTalent-Lab) is a unit of the Universitat Politècnica de Catalunya·BarcelonaTech (UPC) consisting of an interdisciplinary group of researchers and experts passionated about people management. </p>
+  address: "<p class=\"text-uppercase\"><strong>Universitat Politècnica de Catalunya · BarcelonaTech</strong>\n        <br>
+  <br>TechTalent-Lab\n        <br>Jordi Girona 1-3, Building C5, Office 001\n        <br>08034 - Barcelona\n
+    \       <br>\n        <strong>Spain</strong>\n      </p>\n      "
+  author: DevCows
+  carousel:
+    enable: yes
+  clients:
+    enable: yes
+    subtitle: 'The Ph.D. Day in Management is organized by the TechTalent-Lab and sponsored by the Departament of Management of the Universitat Politècnica de Catalunya·BarcelonaTech.'
+    title: Sponsors
+  contact_form_ajax: no
+  copyright: Copyright (c) 2019 - 2021, TechTalent-Lab; all rights reserved.
+  date_format: January 2, 2021
+  default_sharing_image: img/sharing-default.png
+  defaultDescription: Site template made by devcows using hugo
+  defaultKeywords:
+    - phd
+    - techtalent-lab
+    - upc
+  enableGoogleMaps: no
+  facebook_site: ''
+  features:
+    enable: NO
+  formspree_action: https://formspree.io/sample/of/endpoint
+  googleMapsApiKey: AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y
+  latitude: '-12.043333'
+  logo: img/logo.png
+  logo_small: img/logo-small.png
+  longitude: '-77.028333'
+  mainSections: blog
+  recent_posts:
+    enable: no
+    subtitle: Pellentesque habitant morbi tristique senectus et netus et malesuada
+      fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget,
+      tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean
+      ultricies mi vitae est. Mauris placerat eleifend leo.
+    title: From our blog
+  see_more:
+    enable: no
+    icon: far fa-file-alt
+    link_text: Check other homepages
+    link_url: '#'
+    subtitle: We have prepared for you more than 40 different HTML pages, including
+      5 variations of homepage.
+    title: Do you want to see more?
+  style: blue
+  testimonials:
+    enable: no
+    subtitle: We have worked with many clients and we always like to hear they come
+      out from the cooperation happy and satisfied. Have a look what our clients said
+      about us.
+    title: Testimonials
+  topbar:
+    enable: yes
+    text: "<p class=\"hidden-sm hidden-xs\">Ph.D. Day in Management, by the TechTalent-Lab</p>\n
+      \     <p class=\"hidden-md hidden-lg\">Ph.D. Day in Management, by the TechTalent-Lab</p>\n      "
+  twitter_site: GoHugoIO
+  viewMorePostLink: /blog/
+  widgets:
+    categories: yes
+    search: yes
+    tags: yes
+permalinks:
+  blog: /blog/:year/:month/:day/:filename/
