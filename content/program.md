@@ -8,13 +8,13 @@ keywords:
 title: Full Program - July 7th, 2021
 ---
 
-**9:00 a.m.**  Opening: *Welcome to the PhD Day*, by Dr. Eva Gallardo-Gallardo (*Universitat Politècnica de Catalunya*)
+**9:00 a.m.**  *Welcome & Introduction*, by Dr. Eva Gallardo-Gallardo (*Universitat Politècnica de Catalunya*)
 
 **9:30 a.m.**  Keynote #1: *An Overview of Bibliometrics*, by Dr. Sasa Batistic (*Tillburg University*)
 
-**10:40 a.m.** Keynote #2: *SciMAT: Bibliometric Analysis*, by Dr. Monica Santana (*Universidad Pablo Olavide*)
+**10:40 a.m.** Keynote #2: *Science Mapping Analysis: SciMAT*, by Dr. Monica Santana (*Universidad Pablo Olavide*)
 
-**11:50 a.m.** Round Table: *Recommendations for publishing your bibliometric analysis in top indexed-journals*  
+**11:50 a.m.** Round Table: *Publishing bibliometric papers in Top Journals*  
 * Dr. Eva Gallardo-Gallardo (*moderator*)
 * Dr. Joaquin Alegre (*Universitat de València*), Associate Editor at the *International Journal of Management Reviews*
 * Dr. Matej Černe (*University of Ljubljana*), Editor-in-Chief at *Dynamic Relationships Management Journal*; Associate Editor at *Economic and Business Review*.
@@ -23,7 +23,7 @@ title: Full Program - July 7th, 2021
 
 **1:00 p.m** Break (Dinner)
 
-**2:30 p.m.** Sharing your advances I: Presenting your work in 5 min. with 4 experts
+**2:30 p.m.** Presenting your research in 5 minutes with 4 experts
 * Dr. Estaban Lafuente, *Universitat Politècnica de Catalunya*
 * Dr. Juan A. Marín, *Universidad Politécnica de Valencia*
 * Dr. Imma Ribas-Vila, *Universitat Politècnica de Catalunya*
@@ -31,7 +31,7 @@ title: Full Program - July 7th, 2021
 
 **4:00 p.m.** Keynote #3: *Software for Bibliometrics*, by Dr. Vicenc Fernandez (*Universitat Politècnica de Catalunya*)
 
-**4:30 p.m.** Sharing your advances I: Presenting your work in 5 min. with 4 experts
+**4:30 p.m.** Presenting your research in 5 minutes with 4 experts
 * Dr. Estaban Lafuente, *Universitat Politècnica de Catalunya*
 * Dr. Juan A. Marín, *Universidad Politécnica de Valencia*
 * Dr. Imma Ribas-Vila, *Universitat Politècnica de Catalunya*
