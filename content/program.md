@@ -21,9 +21,9 @@ title: Full Program - July 7th, 2021
 * Dr. Jordi Trullen (*ESADE-Ramon Llull University*), Editorial Board Member at *Business Research Quarterly*
 
 
-**1:00 p.m** Break (Dinner)
+**1:00 p.m** Lunch
 
-**2:30 p.m.** Presenting your research in 5 minutes with 4 experts
+**2:30 p.m.** Presenting your research. Session I
 * Dr. Estaban Lafuente, *Universitat Politècnica de Catalunya*
 * Dr. Juan A. Marín, *Universidad Politécnica de Valencia*
 * Dr. Imma Ribas-Vila, *Universitat Politècnica de Catalunya*
@@ -31,12 +31,12 @@ title: Full Program - July 7th, 2021
 
 **4:00 p.m.** Keynote #3: *Software for Bibliometrics*, by Dr. Vicenc Fernandez (*Universitat Politècnica de Catalunya*)
 
-**4:30 p.m.** Presenting your research in 5 minutes with 4 experts
+**4:30 p.m.** Presenting your research. Session II
 * Dr. Estaban Lafuente, *Universitat Politècnica de Catalunya*
 * Dr. Juan A. Marín, *Universidad Politécnica de Valencia*
 * Dr. Imma Ribas-Vila, *Universitat Politècnica de Catalunya*
 * Dr. Jose M Sallan, *Universitat Politècnica de Catalunya*
 
-**5:30 p.m.** Closing, by Dr. Eva Gallardo-Gallardo
+**5:30 p.m.** Closing, by Dr. Eva Gallardo-Gallardo (*Universitat Politècnica de Catalunya*)
 
 
