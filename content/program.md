@@ -10,7 +10,7 @@ title: Full Program - July 7th, 2021
 
 **9:00 a.m.**  *Welcome & Introduction*, by Dr. Eva Gallardo-Gallardo (*Universitat Politècnica de Catalunya*)
 
-**9:30 a.m.**  Keynote #1: *An Overview of Bibliometrics*, by Dr. Sasa Batistic (*Tillburg University*)
+**9:30 a.m.**  Keynote #1: *How to conduct a bibliometric review study - An overview and key recommendations*, by Dr. Sasa Batistic (*Tillburg University*)
 
 **10:40 a.m.** Keynote #2: *Science Mapping Analysis: SciMAT*, by Dr. Monica Santana (*Universidad Pablo Olavide*)
 
