@@ -14,7 +14,7 @@ The Organizing Committee has selected the following students for presenting thei
 
 * **2:30pm** - Olga Khudozhnikova (University of Valencia)
 * **2:45pm** - Maria Orero Blat (Universitat Politècnica de València)
-* **3:00pm** - Ajda Merkuž (University of Ljubljana)
+* **3:00pm** - Maria Fernandez Muiños (University of Salamanca)
 * **3:15pm** - Marta Ferrer Serrano (Universidad de Zaragoza)
 * **3:30pm** - Daniel Siles (Mondragon University)
 * **3:45pm** - Mohammad Hamza Mohammad Alkurdi (Universidad de Oviedo)
