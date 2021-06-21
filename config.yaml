@@ -20,10 +20,10 @@ menu:
       name: Participants
       url: /participants/
       weight: 3
-    - identifier: registration
-      name: Registration
-      url: https://myenquesta.upc.edu/index.php/179812?lang=en
-      weight: 4
+    - identifier: presentations
+      name: Students Presentations
+      url: /presentations/
+      weight: 4      
   topbar:
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
