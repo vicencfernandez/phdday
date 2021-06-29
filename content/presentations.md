@@ -21,7 +21,7 @@ The Organizing Committee has selected the following students for presenting thei
 * **4:30pm** - Lidia Melnikova (University of the Basque Country)
 * **4:45pm** - Dana Fatol (Politehnica University Timisoaraa)
 * **5:00pm** - Rosa Vidal Tusal (Universitat Politècnica de Catalunya)
-* **5:15pm** - Salma El Bied (Universidad Politécnica de Cartagena)
+* **5:15pm** - Sofia Blanco Moreno (Universidad de León)
 
 ## Some important information
 
