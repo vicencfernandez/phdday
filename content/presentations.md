@@ -19,7 +19,7 @@ The Organizing Committee has selected the following students for presenting thei
 * **3:30pm** - Daniel Siles (Mondragon University)
 * **3:45pm** - Mohammad Hamza Mohammad Alkurdi (Universidad de Oviedo)
 * **4:30pm** - Lidia Melnikova (University of the Basque Country)
-* **4:45pm** - Dana Fatol (Politehnica University Timisoaraa)
+* **4:45pm** - Dana Fatol (Politehnica University Timisoara)
 * **5:00pm** - Rosa Vidal Tusal (Universitat Politècnica de Catalunya)
 * **5:15pm** - Sofia Blanco Moreno (Universidad de León)
 
